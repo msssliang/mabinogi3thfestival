@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.5191708d.chunk.css",
-    "main.js": "./static/js/main.4d56a5b3.chunk.js",
-    "main.js.map": "./static/js/main.4d56a5b3.chunk.js.map",
+    "main.js": "./static/js/main.31e45652.chunk.js",
+    "main.js.map": "./static/js/main.31e45652.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d54aabb4.js",
     "runtime-main.js.map": "./static/js/runtime-main.d54aabb4.js.map",
-    "static/js/2.e606dbe0.chunk.js": "./static/js/2.e606dbe0.chunk.js",
-    "static/js/2.e606dbe0.chunk.js.map": "./static/js/2.e606dbe0.chunk.js.map",
+    "static/js/2.8927e613.chunk.js": "./static/js/2.8927e613.chunk.js",
+    "static/js/2.8927e613.chunk.js.map": "./static/js/2.8927e613.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.5191708d.chunk.css.map": "./static/css/main.5191708d.chunk.css.map",
-    "static/js/2.e606dbe0.chunk.js.LICENSE.txt": "./static/js/2.e606dbe0.chunk.js.LICENSE.txt",
+    "static/js/2.8927e613.chunk.js.LICENSE.txt": "./static/js/2.8927e613.chunk.js.LICENSE.txt",
     "static/media/pageStyles.css": "./static/media/arrow.da8841ae.svg",
     "static/media/banana_0.png": "./static/media/banana_0.1daed9be.png",
     "static/media/banana_1.png": "./static/media/banana_1.23602720.png",
@@ -30,9 +30,9 @@
     "static/media/rice_0.png": "./static/media/rice_0.717b61e7.png",
     "static/media/seven_0.png": "./static/media/seven_0.f2403bbf.png",
     "static/media/techduinn.7f476e3f.png": "./static/media/techduinn.7f476e3f.png",
-    "static/media/tori_0.png": "./static/media/tori_0.31ef6b33.png",
+    "static/media/tori_0.png": "./static/media/tori_0.a0bd1249.png",
     "static/media/train_0.png": "./static/media/train_0.ac317cdf.png",
-    "static/media/warm_0.png": "./static/media/warm_0.3d419e6a.png",
+    "static/media/warm_0.png": "./static/media/warm_0.6f8c3e51.png",
     "static/media/一世溫言_300dpi.png": "./static/media/一世溫言_300dpi.a8b15f2d.png",
     "static/media/八八.png": "./static/media/八八.edafd926.png",
     "static/media/八八_O口O.png": "./static/media/八八_O口O.a43c61bf.png",
@@ -50,8 +50,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d54aabb4.js",
-    "static/js/2.e606dbe0.chunk.js",
+    "static/js/2.8927e613.chunk.js",
     "static/css/main.5191708d.chunk.css",
-    "static/js/main.4d56a5b3.chunk.js"
+    "static/js/main.31e45652.chunk.js"
   ]
 }
