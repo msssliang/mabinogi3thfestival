@@ -1,27 +1,28 @@
 {
   "files": {
     "main.css": "./static/css/main.5191708d.chunk.css",
-    "main.js": "./static/js/main.31e45652.chunk.js",
-    "main.js.map": "./static/js/main.31e45652.chunk.js.map",
+    "main.js": "./static/js/main.547d93d2.chunk.js",
+    "main.js.map": "./static/js/main.547d93d2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d54aabb4.js",
     "runtime-main.js.map": "./static/js/runtime-main.d54aabb4.js.map",
-    "static/js/2.8927e613.chunk.js": "./static/js/2.8927e613.chunk.js",
-    "static/js/2.8927e613.chunk.js.map": "./static/js/2.8927e613.chunk.js.map",
+    "static/js/2.3059e70a.chunk.js": "./static/js/2.3059e70a.chunk.js",
+    "static/js/2.3059e70a.chunk.js.map": "./static/js/2.3059e70a.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.5191708d.chunk.css.map": "./static/css/main.5191708d.chunk.css.map",
-    "static/js/2.8927e613.chunk.js.LICENSE.txt": "./static/js/2.8927e613.chunk.js.LICENSE.txt",
+    "static/js/2.3059e70a.chunk.js.LICENSE.txt": "./static/js/2.3059e70a.chunk.js.LICENSE.txt",
     "static/media/pageStyles.css": "./static/media/arrow.da8841ae.svg",
     "static/media/banana_0.png": "./static/media/banana_0.1daed9be.png",
-    "static/media/banana_1.png": "./static/media/banana_1.23602720.png",
-    "static/media/banana_2.png": "./static/media/banana_2.8eaf5fd1.png",
+    "static/media/banana_1.png": "./static/media/banana_1.92d45fb9.png",
+    "static/media/banana_2.png": "./static/media/banana_2.adec9340.png",
     "static/media/blue_0.png": "./static/media/blue_0.0871b4dc.png",
     "static/media/buji_0.png": "./static/media/buji_0.63df42c1.png",
     "static/media/button_cancel.931fda63.wav": "./static/media/button_cancel.931fda63.wav",
     "static/media/button_confirm.17b4931b.wav": "./static/media/button_confirm.17b4931b.wav",
     "static/media/button_down.8f5af9ca.wav": "./static/media/button_down.8f5af9ca.wav",
-    "static/media/deer_0.png": "./static/media/deer_0.2b146279.png",
+    "static/media/deer_0.png": "./static/media/deer_0.937c5887.png",
+    "static/media/deer_1.png": "./static/media/deer_1.df78fecc.png",
     "static/media/eight_0.png": "./static/media/eight_0.bbbcad86.png",
-    "static/media/eight_1.png": "./static/media/eight_1.d68c263c.png",
+    "static/media/eight_1.png": "./static/media/eight_1.a348ca85.png",
     "static/media/hato_0.png": "./static/media/hato_0.acdb7b9d.png",
     "static/media/logotype.9569bcd2.png": "./static/media/logotype.9569bcd2.png",
     "static/media/namikawa_0.png": "./static/media/namikawa_0.cf250ce8.png",
@@ -50,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d54aabb4.js",
-    "static/js/2.8927e613.chunk.js",
+    "static/js/2.3059e70a.chunk.js",
     "static/css/main.5191708d.chunk.css",
-    "static/js/main.31e45652.chunk.js"
+    "static/js/main.547d93d2.chunk.js"
   ]
 }
