@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "./static/css/main.5191708d.chunk.css",
-    "main.js": "./static/js/main.547d93d2.chunk.js",
-    "main.js.map": "./static/js/main.547d93d2.chunk.js.map",
+    "main.js": "./static/js/main.fb4d6009.chunk.js",
+    "main.js.map": "./static/js/main.fb4d6009.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d54aabb4.js",
     "runtime-main.js.map": "./static/js/runtime-main.d54aabb4.js.map",
-    "static/js/2.3059e70a.chunk.js": "./static/js/2.3059e70a.chunk.js",
-    "static/js/2.3059e70a.chunk.js.map": "./static/js/2.3059e70a.chunk.js.map",
+    "static/js/2.be1a0628.chunk.js": "./static/js/2.be1a0628.chunk.js",
+    "static/js/2.be1a0628.chunk.js.map": "./static/js/2.be1a0628.chunk.js.map",
     "index.html": "./index.html",
     "static/css/main.5191708d.chunk.css.map": "./static/css/main.5191708d.chunk.css.map",
-    "static/js/2.3059e70a.chunk.js.LICENSE.txt": "./static/js/2.3059e70a.chunk.js.LICENSE.txt",
+    "static/js/2.be1a0628.chunk.js.LICENSE.txt": "./static/js/2.be1a0628.chunk.js.LICENSE.txt",
     "static/media/pageStyles.css": "./static/media/arrow.da8841ae.svg",
     "static/media/banana_0.png": "./static/media/banana_0.1daed9be.png",
     "static/media/banana_1.png": "./static/media/banana_1.92d45fb9.png",
@@ -23,11 +23,15 @@
     "static/media/deer_1.png": "./static/media/deer_1.df78fecc.png",
     "static/media/eight_0.png": "./static/media/eight_0.bbbcad86.png",
     "static/media/eight_1.png": "./static/media/eight_1.a348ca85.png",
-    "static/media/hato_0.png": "./static/media/hato_0.acdb7b9d.png",
+    "static/media/hato_0.png": "./static/media/hato_0.83b49d81.png",
     "static/media/logotype.9569bcd2.png": "./static/media/logotype.9569bcd2.png",
-    "static/media/namikawa_0.png": "./static/media/namikawa_0.cf250ce8.png",
-    "static/media/osake_0.png": "./static/media/osake_0.dd023081.png",
-    "static/media/post_0.png": "./static/media/post_0.f2403bbf.png",
+    "static/media/namikawa_0.png": "./static/media/namikawa_0.8d043b79.png",
+    "static/media/osake_0.png": "./static/media/osake_0.d6d357a0.png",
+    "static/media/post_0.png": "./static/media/post_0.60e1ba80.png",
+    "static/media/post_1.png": "./static/media/post_1.0848e9c0.png",
+    "static/media/post_2.png": "./static/media/post_2.e9591291.png",
+    "static/media/post_3.png": "./static/media/post_3.1e23bcd2.png",
+    "static/media/post_4.png": "./static/media/post_4.004f4596.png",
     "static/media/rice_0.png": "./static/media/rice_0.717b61e7.png",
     "static/media/seven_0.png": "./static/media/seven_0.f2403bbf.png",
     "static/media/techduinn.7f476e3f.png": "./static/media/techduinn.7f476e3f.png",
@@ -51,8 +55,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d54aabb4.js",
-    "static/js/2.3059e70a.chunk.js",
+    "static/js/2.be1a0628.chunk.js",
     "static/css/main.5191708d.chunk.css",
-    "static/js/main.547d93d2.chunk.js"
+    "static/js/main.fb4d6009.chunk.js"
   ]
 }
