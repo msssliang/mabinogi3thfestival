@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "./static/css/main.5aff086e.chunk.css",
-    "main.js": "./static/js/main.6cea214c.chunk.js",
-    "main.js.map": "./static/js/main.6cea214c.chunk.js.map",
+    "main.js": "./static/js/main.f894d882.chunk.js",
+    "main.js.map": "./static/js/main.f894d882.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.d54aabb4.js",
     "runtime-main.js.map": "./static/js/runtime-main.d54aabb4.js.map",
     "static/js/2.68c42599.chunk.js": "./static/js/2.68c42599.chunk.js",
@@ -22,7 +22,7 @@
     "static/media/blue_0_dl.png": "./static/media/blue_0_dl.84c0b1bf.png",
     "static/media/blue_1.png": "./static/media/blue_1.2cb3d781.png",
     "static/media/blue_1_dl.png": "./static/media/blue_1_dl.d9495b9a.png",
-    "static/media/blue_2.png": "./static/media/blue_2.c5d609cf.png",
+    "static/media/blue_2.png": "./static/media/blue_2.222eab11.png",
     "static/media/blue_2_dl.png": "./static/media/blue_2_dl.4ac195a4.png",
     "static/media/buji_0.png": "./static/media/buji_0.3e7d92f8.png",
     "static/media/deer_0.png": "./static/media/deer_0.28459146.png",
@@ -94,6 +94,6 @@
     "static/js/runtime-main.d54aabb4.js",
     "static/js/2.68c42599.chunk.js",
     "static/css/main.5aff086e.chunk.css",
-    "static/js/main.6cea214c.chunk.js"
+    "static/js/main.f894d882.chunk.js"
   ]
 }
